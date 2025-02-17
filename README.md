@@ -16,4 +16,3 @@
 |-----------|----------------------------------|
 | **AI 核心**  | DeepSeek API / LangChain         |
 | **后端**     | Python + FastAPI                 |
-| **前端**     | Vue3 + TypeScript + TailwindCSS |
